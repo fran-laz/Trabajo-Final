@@ -1,5 +1,5 @@
 lugares_por_departamento = {
-    "La Paz": ["Valle de la Luna", "Teleférico", "Plaza Murillo"],
+    "La Paz": ["Valle de la Luna", "Teleférico", "Plaza Murillo", "Parque de la Familia, Cristo de la Concordia"],
     "Cochabamba": ["Cristo de la Concordia", "La Cancha", "Laguna Alalay"],
     "Santa Cruz": ["Biocentro Güembé", "Plaza 24 de Septiembre", "Parque Lomas de Arena"]
 }
