@@ -1,4 +1,4 @@
-import requests
+import requests # type: ignore
 API_KEY = 'a06749bb0149695ba0b8e0787d029580'
 ciudad = 'Cochabamba,BO'
 url = f'https://api.openweathermap.org/data/2.5/weather?q={ciudad}&appid={API_KEY}&units=metric&lang=es'
