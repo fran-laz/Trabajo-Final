@@ -6,5 +6,5 @@ Parte del sistema modelado en codigo
 Abre tu terminal y ejecuta:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/fran-laz/Trabajo-Final
 cd tu-repositorio
