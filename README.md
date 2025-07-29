@@ -13,3 +13,19 @@ Para el codigo de Clima se necesita tener la libreria request que se instala en 
 
 ```bash
 pip install requests
+
+▶️ ¿Cómo ejecutar los scripts?
+1. Abrir una terminal o consola.
+2. Navegar a la carpeta donde se encuentran los archivos .py:
+bash
+Copiar
+Editar
+cd ruta/del/proyecto
+3. Ejecutar el script deseado:
+Para Buscar lugar:
+
+bash
+Copiar
+Editar
+python nombreDelArchivo.py
+
