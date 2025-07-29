@@ -18,6 +18,7 @@ pip install requests
 ##▶️ ¿Cómo ejecutar los scripts?
 #1. Abrir una terminal o consola.
 #2. Navegar a la carpeta donde se encuentran los archivos .py:
+
 ```bash
 cd ruta/del/proyecto
 ```
